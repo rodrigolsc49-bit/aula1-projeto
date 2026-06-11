@@ -17,3 +17,6 @@
 # Evidências Esperados 
 
 ## Definir Evidências que serão geradas
+
+Comando: git log --online
+>>0ac8739 (HEAD -> main) Estrutura inicial do projeto
